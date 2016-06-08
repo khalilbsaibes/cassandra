@@ -1,3 +1,7 @@
+ID Cnam :726Z
+Nom : Khalil Georges Bsaibes
+Introduction : Cassandra
+
 # Cassandra
 SMB214-2016 Project
 1- Cassandra intro et satisfaction de Théorème CAP (CDP).
